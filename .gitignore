@@ -1,0 +1,10 @@
+# Mengabaikan virtual environment
+env/
+venv/
+
+# Mengabaikan file sampah Python
+__pycache__/
+*.pyc
+
+# Mengabaikan file sistem operasi
+.DS_Store

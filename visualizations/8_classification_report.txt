@@ -1,0 +1,11 @@
+=== LAPORAN EVALUASI MODEL XGBOOST ===
+Metode: Class Weighting (scale_pos_weight = 2.77)
+
+              precision    recall  f1-score   support
+
+           0       0.87      0.80      0.84      1036
+           1       0.55      0.68      0.61       373
+
+    accuracy                           0.77      1409
+   macro avg       0.71      0.74      0.72      1409
+weighted avg       0.79      0.77      0.77      1409
